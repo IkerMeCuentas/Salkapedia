@@ -1,5 +1,5 @@
 ---
-title: Salkai (Especie)
+title: Salkai (Subespecie)
 draft: false
 tags:
 ---
