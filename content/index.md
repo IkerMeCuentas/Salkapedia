@@ -1,5 +1,5 @@
 ---
-title: Índice
+title: ¡Bienvenido a la Salkapedia!
 ---
 > [!danger] Out of Character (OOC)
 > La **Salkapedia** es un proyecto de wiki para el universo ficticio de Salka.
