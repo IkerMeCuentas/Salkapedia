@@ -16,3 +16,6 @@ title: Índice
 
 ## Grupos
  - [[Salkai]]
+
+
+![[Red_Plain_03.jpg]]
