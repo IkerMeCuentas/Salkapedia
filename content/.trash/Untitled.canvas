@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"type":"text","text":"# Person 1","id":"8a531353e2c3f1f1","x":54,"y":223,"width":250,"height":60,"color":"3"},
-		{"type":"text","text":"# Person 2","id":"6d236a1696e2c7fa","x":360,"y":560,"width":250,"height":60,"color":"2"}
-	],
-	"edges":[
-		{"id":"36e3724488d44434","fromNode":"6d236a1696e2c7fa","fromSide":"top","toNode":"8a531353e2c3f1f1","toSide":"bottom","fromEnd":"arrow","color":"1"}
-	]
-}
