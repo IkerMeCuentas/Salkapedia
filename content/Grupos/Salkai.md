@@ -11,7 +11,7 @@ Los **Salkai** son una subespecie humana nativa al planeta [[Salka]]. Son una l�
 
 ![[Foreni_Male_01.png]]*Varón salkai de la [[Costa Dirsiga]]*
 
-# Apariencia Física
+# Apariencia física
 
 La subespecie Salkai presenta una serie de distintivas modificaciones craneofaciales que los diferencian claramente del humano basal. Una de las características más notables es la proyección hacia adelante de la boca y la nariz, creando una estructura en apariencia similar a un hocico. Esta configuración es el resultado de la fusión de las regiones nasales y orales. La nariz forma una superficie contínua con el labio y maxilar superiores lo que contribuye a la prominente proyección del área media facial.
 
