@@ -39,6 +39,10 @@ El huevo debe permanecer en un entorno cálido y estable, y el cuidado de estos 
 
 Tras tres meses de gestación externa, el bebé eclosiona en un estado mucho más desarrollado que un humano basal, presentando una mayor movilidad y supervivencia básica independiente, aunque depende del cuidado parental durante muchos años.
 
+![[salkai_egg_01.jpg]]
+*Imagen de un huevo salkano en su nido*
+
+
 ## Adelfofagia
 
 Aunque la gestación de doble fase reduce el riesgo tanto para la madre como para el embrión, el proceso de eclosión no está libre de riesgos y es una característica muy controvertida del proceso reproductivo, dado que se pueden dar casos de **adelfofagia** (canibalismo entre hermanos).
