@@ -29,4 +29,20 @@ Morfológicamente, los **salkai**, en tanto que xenohumanos (i.e. subespecie hum
 
 # Reproducción
 
-Uno de los puntos de principal divergencia entre los humanos basales y los salkai es el de la **reproducción.** A diferencia de la reproducción humana, que es vivípara y seguida de un periodo de amamantamiento, los salkai se reproducen de forma ovípara. El periodo de gestación es de aproximadamente 10,5 meses estándares, en total superior a la gestación humana basal, pero esto se divide en 7 meses de gestación *in utero*, después del cual la mujer salkai desova. El embrión se gesta durante 3 meses más dentro de un huevo correoso
+Uno de los puntos de principal divergencia entre los humanos basales y los salkai es el de la **reproducción.** La reproducción salkai ocurre a través de una combinación única de etapas de gestación vivíparas y ovíparas. El proceso comienza con un periodo de desarrollo interno, durante el cual el embrión se gesta en el útero de la madre durante aproximadamente siete meses estándar. En este periodo se da el desarrollo más crítico, incluyendo la formación de órganos, el desarrollo esquelético y diferenciación inicial de extremidades y rasgos externos. La placenta permite un intercambio de nutrientes entre la madre y el feto durante esta etapa.
+
+Al finalizar estos siete meses de gestación, en lugar de darse un nacimiento vivíparo, la madre expulsa al embrión en un saco flexible de gran tamaño, transicionando a una fase de desarrollo externo. Este saco tiene una cubierta gruesa maleable y plástica, que facilita la ovoposición y reduce el esfuerzo físico necesario y el riesgo de daño para ambos.
+
+Una vez puesto, el saco se endurece gradualmente hasta convertirse en una cáscara coriácea que sirve de barrera protectiva y permitirá el crecimiento seguro del embrión en un ambiente externo a la madre. Este huevo es de unos 30 centímetros de diámetro, y protege al embrión y un saco vitelino interno que lo alimenta, completando su crecimiento hasta el momento de la eclosión. Esta fase externa reduce el riesgo en el parto y libera parte de la carga metabólica sobre la madre, permitiéndole una mayor movilidad y reduciendo el desgaste de una gestación prolongada.
+
+El huevo debe permanecer en un entorno cálido y estable, y el cuidado de estos entornos es de gran importancia en las culturas salkai. Estos 'nidos' presentan una gran variedad, siendo en algunos casos arcas móviles, y en otros refugios permanentes, pero en todo caso son de gran importancia para los nativos.
+
+Tras tres meses de gestación externa, el bebé eclosiona en un estado mucho más desarrollado que un humano basal, presentando una mayor movilidad y supervivencia básica independiente, aunque depende del cuidado parental durante muchos años.
+
+## Adelfofagia
+
+Aunque la gestación de doble fase reduce el riesgo tanto para la madre como para el embrión, el proceso de eclosión no está libre de riesgos y es una característica muy controvertida del proceso reproductivo, dado que se pueden dar casos de **adelfofagia** (canibalismo entre hermanos).
+
+Al eclosionar, el bebé salkano nace con dientes formados y adaptados para consumir inmediatamente los restos de su propio huevo, un comportamiento que proporciona nutrientes y energía adicionales. Sin embargo, en algunos casos, la cría podría intentar consumir también otros huevos presentes guiada por la misma tendencia instintiva a alimentarse de fuentes accesibles. Este comportamiento, aunque raro, representa un riesgo significativo para las crías en nidos compartidos y puede resultar en la muerte accidental de hermanos no eclosionados, especialmente si el cuidado parental o comunitario no limita el acceso a otros huevos.
+
+Este fenómeno ha sido distorsionado y exagerado en narrativas coloniales, dando origen a un mito difundido por ciertos grupos supremacistas que afirman que los Salkai promueven el canibalismo fraternal de forma intencionada y como parte de su cultura. Este mito, que no tiene base en la realidad ni en estudios etnológicos, utiliza casos aislados y explicaciones incompletas de los comportamientos instintivos para perpetuar estereotipos negativos. En realidad, el supuesto canibalismo filial es una interpretación errónea de un comportamiento instintivo común y responde a la naturaleza biológica de esta xenolínea, no a una conducta cultural o agresiva.
