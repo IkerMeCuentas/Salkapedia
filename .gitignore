@@ -9,5 +9,5 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-000 IGNORE/
 000 IGNORE
+.trash
