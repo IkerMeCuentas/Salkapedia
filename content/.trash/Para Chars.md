@@ -1,0 +1,16 @@
+# Profesiones
+- Conductor de carros
+	- Muy buena Conducción
+	- Buena Mecánica
+	- Muy buena Navegación
+- Mecánico
+	- Buena Conducción
+	- Muy buena Mecánica
+	- Muy buena Electrónica
+- Explorador
+	- Muy buena Navegación
+	- Muy buena Supervivencia
+	- Buena Ciencia
+- Científico
+	- Muy buena Ciencia
+	- Muy buena Electrónica
