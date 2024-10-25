@@ -17,5 +17,9 @@ title: ¡Bienvenido a la Salkapedia!
 ## Grupos
  - [[Salkai]]
 
+## Ubicaciones
+
+- [[Costa Dirsiga]]
+
 
 ![[Red_Plain_03.jpg]]
