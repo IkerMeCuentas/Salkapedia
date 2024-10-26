@@ -3,6 +3,7 @@ title: Historia
 draft: false
 tags:
   - historia
+  - work-in-progress
 ---
 # Descubrimiento
 
@@ -32,11 +33,13 @@ Las versiones oficiales de lo ocurrido durante este segundo abordaje se contradi
 
 Las versiones de ambas potencias son notablemente diferentes y aún hoy en día tanto Indit como Kaoré defienden la veracidad de su versión, aunque no se ha podido demostrar falsificación alguna en la versión de la otra parte. Debido a lo remoto del lugar de los hechos, no existen versiones adicionales que puedan arrojar luz sobre lo realmente sucedido. Lo que está fuera de duda es que este evento fue el pistoletazo de salida para la intervención kaoresa. Tras meses de retórica agresiva contra su rival, Kaoré utilizó la tragedia del *Valor* como última pieza de su argumentario contra Indit y anunció que intervendría en el sistema para garantizar la seguridad de sus ciudadanos y los de sus aliados en el disputado sistema.
 
-# Guerra de Salka (11 PC - 16 PC) #WIP
+# Guerra de Salka (11 PC - 16 PC)
+
+#work-in-progress 
 
 Después de la Tragedia del *Valor de Bedia* y en respuesta al anuncio kaorés de despliegue de fuerzas, Indit redobló su presencia en el sistema desplegando flotas adicionales y ordenando la detención de todas las naves no inditianas en el sistema. Kaoré, por su parte, había amasado tropas y flotas en sistemas cercanos que rápidamente fueron desplegadas en el sistema.
 
-El primer enfrentamiento de la guerra ocurrió en las inmediaciones del #WIP [GIGANTE GASEOSO] de la zona exterior del sistema planetario, donde dos cruceros intercambiaron disparos y misiles para posteriormente retirarse sin bajas. Durante dos años, las flotas kaoresas avanzaron hacia Salka, el corazón del sistema, mientras las defensas inditianas respondían con ataques desde sus bases orbitales.
+El primer enfrentamiento de la guerra ocurrió en las inmediaciones del [GIGANTE GASEOSO] de la zona exterior del sistema planetario, donde dos cruceros intercambiaron disparos y misiles para posteriormente retirarse sin bajas. Durante dos años, las flotas kaoresas avanzaron hacia Salka, el corazón del sistema, mientras las defensas inditianas respondían con ataques desde sus bases orbitales.
 
 En el frente doméstico, las tensiones crecían. La retórica de ambos países los dirigían a un enfrentamiento abierto y las naciones satélite fronterizas, involucradas en la Guerra de la Brecha que se había luchado apenas 60 años antes, pasaron a desplegar sus fuerzas y a prepararse para la conflagración.
 
@@ -44,6 +47,8 @@ La guerra rápidamente se estanca en el frente salkano, sin que ninguna de las d
 
 En el lado del planeta, la guerra supone una interrupción a los suministros y refuerzos de los asentamientos coloniales, particularmente aquellos establecidos por potencias menores y grupos privados. Muchos asentamientos son abandonados o fusionados con otros más grandes. Los roces con los indígenas salkanos se recrudecen, dándose conflictos territoriales entre grupos de salkai y asentamientos. Todo esto planta las semillas de una identidad colonial.
 
-# Firma del Primer Tratado #WIP  
+# Firma del Primer Tratado
+tag:#work-in-progress
+#work-in-progress 
 
 El resultado del estancamiento de la Guerra de Salka es la firma del Primer Tratado. Este pacto pone fin a las hostilidades abiertas y declara una tregua, aunque se considera un acuerdo inestable y provisional.

@@ -4,6 +4,7 @@ draft: true
 tags:
   - grupo
   - profesión
+  - work-in-progress
 aliases:
 ---
 Los **Pioneros** son, históricamente, aquellos individuos ajenos a [[Salka]] que trabajando para distintas partes o por ambición individual, exploraron el planeta, establecieron contacto con distintos grupos Salkai, o se adentraron en ruinas.

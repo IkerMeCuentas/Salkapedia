@@ -4,7 +4,7 @@ draft: false
 tags:
   - grupo
   - nación
-  - WIP
+  - work-in-progress
 description: República estelar humana
 ---
 **Kaoré** es una república estelar. Es una de las principales potencias en la región en la que se encuentra [[Salka]]. Junto con [[Nueva Indit]], conforman una de las llamadas ***Dos Repúblicas*** y es una de las principales partes del Tratado de Salka.

@@ -1,10 +1,11 @@
 ---
 title: Foreni (Grupo tribal)
-draft: true
+draft: false
 tags:
   - grupo
   - nación
   - tribu
+  - work-in-progress
 aliases:
   - foreni
 ---
