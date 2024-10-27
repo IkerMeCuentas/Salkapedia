@@ -1,8 +1,8 @@
 ---
-title: Cabra Gora
+title: Dalen de Brinto
 draft: true
 tags:
-  - animal
+  - personas
   - work-in-progress
 aliases:
 ---

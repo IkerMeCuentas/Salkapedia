@@ -25,3 +25,13 @@ Recientemente, la Costa Dirsiga ha visto el establecimiento de **San Lebrel**, u
 # San Lebrel
 
 #work-in-progress 
+
+**San Lebrel** es el principal asentamiento colonial humano en la Costa Dirsiga. El asentamiento fue fundado en un proyecto del [[Condominio de Salka|Condominio]] cofinanciado por la [[Iglesia Terranista]], que bautizó la ciudad con el nombre de uno de sus santos. La población es mixta, de origen tanto kaorés como inditiano con una pluralidad de inmigrantes de terceros estados. Tiene un pequeño espaciopuerto que lo comunica con la [[Estación del Tratado]] y otros lugares en el sistema y superficie, así como un pequeño puerto marino para operaciones navales a una pequeña distancia hacia el sur.
+
+Económicamente, la ciudad es dependiente de los grandes subsidios a su operación proveídos por los patrones - nominalmente, el [[Condominio de Salka|Condominio]], la [[Iglesia Terranista]], y el [[Instituto Salkano de Ciencias]]. San Lebrel produce cultivos hidropónicos y comercia con pequeñas granjas coloniales colindantes, así como con tribus y clanes [[Foreni|foreni]], pero su principal fuente de actividad económica es la exploración de ruinas e inversiones para el desarrollo de los nativos locales.
+
+## Directorio local
+
+El centro satélite de la **Oficina Sectorial** de la Costa Dirsiga del [[Instituto Salkano de Ciencias]] se encuentra aquí. El director sectorial es [[Gaine Malvonto]], mientras que [[Dalen de Brinto]] ocupa el puesto de gestora de operaciones.
+
+[[Wenden Hamet]] regenta el **Emporio Hamet**, un comercio generalista que provee de toda clase de bienes necesarios para la vida en San Lebrel y la Costa Dirsiga.
