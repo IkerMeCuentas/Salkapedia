@@ -18,6 +18,10 @@ La Costa Dirsiga, por su ubicación en las latitudes subárticas del planeta, ti
 
 Debido a estas dificultades, es uno de los territorios menos explorados e integrados de la superficie.
 
-Se desconoce el momento exacto del verdadero primer contacto con los dirsigos o forenis. El primer contacto establecido por parte del [[Condominio de Salka]] ocurrió hace relativamente poco, pero ya existían narrativas culturales entre los nativos sobre los humanos y su tecnología, y se sabe de al menos tres clanes en posesión de distinta tecnología moderna, incluyendo una cámara fotográfica, un abrigo y un rifle, los tres de manufactura inditiana y en muy mal estado, señales de un contacto previo no reconocido. Asimismo, los nativos conocían de la existencia de transbordadores y aeronaves, que denominaban (en su idioma) ***'ballenas del cielo.'***
+Se desconoce el momento exacto del verdadero primer contacto con los dirsigos o forenis. El primer contacto establecido por parte del [[Condominio de Salka]] ocurrió hace relativamente poco, pero ya existían narrativas culturales entre los nativos sobre los humanos y su tecnología, y se sabe de al menos tres bandas en posesión de distinta tecnología moderna, incluyendo una cámara fotográfica, un abrigo y un rifle, los tres de manufactura inditiana y en muy mal estado, señales de un contacto previo no reconocido. Asimismo, los nativos conocían de la existencia de transbordadores y aeronaves, que denominaban (en su idioma) ***'ballenas del cielo.'***
 
 Recientemente, la Costa Dirsiga ha visto el establecimiento de **San Lebrel**, un asentamiento resultado de un proyecto conjunto entre la [[Iglesia Terranista]] y el gobierno del [[Condominio de Salka]], y el primero de la región. Este proyecto busca facilitar las actividades del Condominio en la región, incorporándola e integrándola al resto del planeta, y promoviendo su desarrollo. La participación de la Iglesia Terranista viene motivada por el número y naturaleza de ruinas encontradas en esta zona, de gran interés para sus investigaciones sobre el pasado de la humanidad, así como la conversión de los locales [[Foreni]] a su fe.
+
+# San Lebrel
+
+#work-in-progress 
