@@ -33,3 +33,26 @@ Pese a estas relaciones comerciales, los asentamientos permanentes sufren muchas
 
 Las tribus foreni se dividen en dos grandes grupos. Las bandas de foreni montañesas son aquellas que habitan los bosques y valles de la **Cordillera Dirsiga**, que rodea la región por el norte, mientras que los foreni llaneros de las tierras bajas habitan las llanuras y colinas ubicadas hacia la costa. La diferencia entre ambas regiones ha marcado mucho el desarrollo económico y cultural de ambos subgrupos, aunque se puede identificar una línea cultural común, con similitudes en sus tradiciones y dialectos.
 
+# Cultura
+
+## Clanes
+
+La sociedad foreni está vertebrada de forma crítica por relaciones de parentesco. Las bandas son grupos de ascendencia común real o percibida, ascendencia que se comparte con otras bandas relacionadas. Las tradiciones orales de las bandas suelen hacer referencia a personajes mitológicos en un distante pasado, que serían identificados como ancestros de los miembros actuales. Estos personajes mitológicos son reconocidos como los ancestros de múltiples bandas, y todos los individuos descendidos de estos ancestros mitológicos conforman un clan.
+
+Las bandas de un mismo clan suelen tener relaciones más estrechas entre si que con bandas externas, aunque esto no impide que se den hostilidades ocasionalmente. Los clanes foreni son aislacionistas y practican la endogamia, prefiriendo enlaces matrimoniales entre miembros de un mismo clan.
+
+Existen grados de parentesco entre los foreni. La familia de un foreni consiste de hermanos y parientes directos, así como todos los ascendientes (abuelos, bisabuelos) y familiares cercanos como son tíos y primos. La banda en su conjunto se entiende como familia extendida, aunque no haya un parentesco claro (o recordado) necesariamente. Y por último, se consideran hermanos todos los miembros de una misma camada - todos aquellos individuos que hayan compartido nido en su etapa ovogénica. Muchas veces, el vínculo entre hermanos de camada (***hermanos de hueso***, según su propia terminología) es maś fuerte que con hermanos biológicos ***(hermanos de sangre)***.
+
+## Dieta
+
+La dieta foreni consiste principalmente de carne y leche obtenidos de los rebaños de la banda. El pescado es parte de la dieta en aquellas bandas con acceso al mismo. Adicionalmente, la nutrición foreni se complementa de musgos, líquenes y algas que crecen en su gélida tierra nativa, así como de verduras y tubérculos recogidos de bosques y pantanos.
+
+Notable entre los alimentos forenis está el **ghechi***, una bebida pastosa producida por la fermentación bacteriana de la leche de las [[Cabra Gora|cabras gora]]. Similar al yogur pero con una textura mucho más densa, esta pasta se fermenta en pellejos ghechi, bolsas de cuero cuyo interior está recubierto de tejido estomacal de [[Uruqu]], cuyo propietario porta cerca de su cuerpo para mantener una temperatura que facilite la fermentación. Las colonias de ghechi, requeridas para la fermentación, se pasan de generación en generación y es común que se entreguen como regalo en eventos vitales de importancia, como bodas.
+
+## Justicia y castigo
+
+El sistema de justicia de los foreni depende de las estructuras internas de las bandas. Generalmente, el concepto de 'crimen' no se entiende como una cuestión de ley como tal, sino de lealtad a la propia banda y a sus miembros.
+
+El rol de juez lo suele ejercer la figura del chamán, generalmente una mujer del grupo de avanzada edad, que gestiona los asuntos y relaciones internas de la banda. Crímenes de gran importancia, como el asesinato, se suele castigar con el exilio, que en la fría región de la Costa Dirsiga suele suponer la muerte. Los crímenes menores se juzgan y castigan de forma *ad-hoc,* generalmente a través de la restitución de la víctima y una paliza pública para el criminal.
+
+Cualquier miembro de la banda, independientemente de su sexo o estatus social, puede acusar a otro miembro de un crimen, sea uno personal (robo de propiedad personal, injurias u ofensas, etcétera) o contra la banda (cobardía, acaparamiento de recursos...)

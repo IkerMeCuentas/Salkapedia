@@ -17,7 +17,8 @@ tags:
 - [[Historia]]
 
 ## Grupos
- - [[Salkai]]
+ - [[Salkai|Salkai (Subespecie humana)]]
+ - [[Foreni]]
 
 ## Ubicaciones
 
