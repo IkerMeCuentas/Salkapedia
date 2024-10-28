@@ -6,3 +6,4 @@ tags:
   - work-in-progress
 aliases:
 ---
+![[Wenden_Hamet.jpg]]
