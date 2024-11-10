@@ -1,6 +1,6 @@
 ---
 title: Iglesia Terranista
-draft: true
+draft: false
 tags:
   - grupo
   - terranismo

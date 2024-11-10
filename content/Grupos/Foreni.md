@@ -32,6 +32,8 @@ Pese a estas relaciones comerciales, los asentamientos permanentes sufren muchas
 
 Las tribus foreni se dividen en dos grandes grupos. Las bandas de foreni montañesas son aquellas que habitan los bosques y valles de la **Cordillera Dirsiga**, que rodea la región por el norte, mientras que los foreni llaneros de las tierras bajas habitan las llanuras y colinas ubicadas hacia la costa. La diferencia entre ambas regiones ha marcado mucho el desarrollo económico y cultural de ambos subgrupos, aunque se puede identificar una línea cultural común, con similitudes en sus tradiciones y dialectos.
 
+Los clanes foreni montañeses son mucho más dependientes de la caza y recolección debido a la escasez de los valles montañeses. Los clanes llaneros tienen una mayor oportunidad para beneficiarse del pastoreo, dado que estas zonas son generalmente más fértiles y permiten una mayor capacidad de carga.
+
 # Cultura
 
 ## Clanes
@@ -41,6 +43,14 @@ La sociedad foreni está vertebrada de forma crítica por relaciones de parentes
 Las bandas de un mismo clan suelen tener relaciones más estrechas entre si que con bandas externas, aunque esto no impide que se den hostilidades ocasionalmente. Los clanes foreni son aislacionistas y practican la endogamia, prefiriendo enlaces matrimoniales entre miembros de un mismo clan.
 
 Existen grados de parentesco entre los foreni. La familia de un foreni consiste de hermanos y parientes directos, así como todos los ascendientes (abuelos, bisabuelos) y familiares cercanos como son tíos y primos. La banda en su conjunto se entiende como familia extendida, aunque no haya un parentesco claro (o recordado) necesariamente. Y por último, se consideran hermanos todos los miembros de una misma camada - todos aquellos individuos que hayan compartido nido en su etapa ovogénica. Muchas veces, el vínculo entre hermanos de camada (***hermanos de hueso***, según su propia terminología) es maś fuerte que con hermanos biológicos ***(hermanos de sangre)***.
+
+## Política
+
+El liderazgo de las bandas y clanes foreni se divide en dos figuras principales, el jefe de la banda y el chamán. Generalmente estos roles son dividos en líneas de sexo, siendo el jefe un hombre y el chamán una mujer, aunque no es infrecuente encontrar los sexos cruzados. El rol del jefe de la banda es la defensa de la misma y el liderazgo de las partidas de caza, así como la representación de la misma en negociaciones con terceros. El chamán, más conectado con el mundo espiritual foreni, es la persona encargada de liderar la banda en rituales religiosos y de transición, como nacimientos, muertes, o mayorías de edad. El chamán también preside sobre juicios, distribución de propiedad, y toma la decisión sobre cuándo iniciar migraciones.
+
+Dentro de una banda, la herencia de las posiciones es distinta. Todos los miembros libres de la banda votan en la elección del jefe, normalmente de entre los guerreros y cazadores. Por el contrario, la heredera de la chamán es elegida por la propia chamán en vida, heredera a la que habrá entrenado personalmente. En ausencia de una heredera, la banda perderá su chamán, y deberá obtenerlo a través del nombramiento o la adhesión de un chamán independiente o de otra banda.
+
+Como se ha indicado anteriormente, estas figuras están presentes tanto en bandas como en clanes. Los clanes que se unifican políticamente eligen a un jefe y a un chamán común que ejercerán funciones similares pero en un territorio más amplio.
 
 ## Dieta
 

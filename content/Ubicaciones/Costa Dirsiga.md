@@ -30,6 +30,8 @@ Recientemente, la Costa Dirsiga ha visto el establecimiento de **San Lebrel**, u
 
 Económicamente, la ciudad es dependiente de los grandes subsidios a su operación proveídos por los patrones - nominalmente, el [[Condominio de Salka|Condominio]], la [[Iglesia Terranista]], y el [[Instituto Salkano de Ciencias]]. San Lebrel produce cultivos hidropónicos y comercia con pequeñas granjas coloniales colindantes, así como con tribus y clanes [[Foreni|foreni]], pero su principal fuente de actividad económica es la exploración de ruinas e inversiones para el desarrollo de los nativos locales.
 
+La mayoría de visitantes y trabajadores estacionales de San Lebrel residen en el **Xenon-Continental/San Lebrel**, hotel operado por la epónima compañía [[Xenon-Continental]]. Este hotel de bajo coste provee habitaciones con baño incluído y un accesible servicio de restauración a bajo precio.
+
 ## Directorio local
 
 El centro satélite de la **Oficina Sectorial** de la Costa Dirsiga del [[Instituto Salkano de Ciencias]] se encuentra aquí. El director sectorial es [[Gaine Malvonto]], mientras que [[Dalen de Brinto]] ocupa el puesto de gestora de operaciones.
