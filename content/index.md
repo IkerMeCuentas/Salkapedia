@@ -2,6 +2,7 @@
 title: ¡Bienvenido a la Salkapedia!
 draft: false
 tags:
+  - index
 ---
 > [!danger] Out of Character (OOC)
 > La **Salkapedia** es un proyecto de wiki para el universo ficticio de Salka.
@@ -14,7 +15,7 @@ tags:
 
 ## Historia
 
-- [[Historia]]
+- [[00 Índice de Historia|Índice: Historia]]
 
 ## Grupos
  - [[Salkai|Salkai (Subespecie humana)]]

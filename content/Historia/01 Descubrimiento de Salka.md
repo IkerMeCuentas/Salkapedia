@@ -1,9 +1,11 @@
 ---
-title: Historia
+title: Descubrimiento de Salka
 draft: false
 tags:
   - historia
   - work-in-progress
+aliases:
+  - Descubrimiento de Salka
 ---
 # Antecedentes
 
