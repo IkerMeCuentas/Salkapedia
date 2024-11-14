@@ -33,7 +33,6 @@ Por el contrario, el foco se ubicó en el recién descubierto sistema. Respecto 
 
 La [[Kaoré|República Amarilla]] no permaneció de brazos cruzados. A través de una serie de medidas de emergencia, el estado kaorés redirigió fondos de diversos sectores a la preparación de una fuerza expedicionaria, bautizado como **Destacamento Expedicionario Salkano**, que rápidamente partió hacia Salka. En el tablero internacional, [[Kaoré]] financió a sus aliados a través de un programa de inversión extranjera - nominalmente en diversos sectores, pero claramente orientados a la astroexploración - con el objetivo de reforzar las capacidades de sus estados asociados.
 
-Tres años después del descubrimiento
 
 ---
 
