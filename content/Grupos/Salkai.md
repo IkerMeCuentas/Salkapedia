@@ -3,6 +3,8 @@ title: Salkai (Subespecie)
 draft: false
 tags:
   - work-in-progress
+aliases:
+  - salkai
 ---
 Nombre científico *Homo salkanensis cunicularia*
 
