@@ -16,6 +16,12 @@ Nos encontramos en la **Vía Láctea**, galaxia espiral hogar de [[Salka]], la [
 
 Nuestro espacio local es conocido como el [[Clavo]], bautizado así debido a la forma de la región vista desde lejos: una zona de mayor densidad de estrellas oblonga, rodeado por una región de menor densidad.
 
+### ¿Qué es la Tierra? ¿Dónde está?
+
+La [[Tierra]], conocida popularmente como la [[Tierra|Madre Tierra]], es el planeta de origen de todos los miembros de la **Gran Humanidad**, incluyendo los humanos basales y las genolíneas divergentes como los [[salkai]].
+
+La ubicación de la **Tierra** es actualmente desconocida y es un punto de gran interés para la sociedad. El [[Terranismo]] es una corriente filosófica y espiritual para en la cual nuestro planeta natal juega un rol vital.
+
 ## ¿Cómo viajamos?
 
 El viaje dentro de un sistema planetario se realiza a través de astronaves de propulsión nuclear de fusión. Esto permite realizar viajes en tiempos relativamente reducidos, aunque si vas a viajar de un planeta a otro calcula tiempos medidos en días, semanas o meses. La potencia de estos sistemas de propulsión implican que nuestras naves no pueden aterrizar sobre superficies planetarias, debido a los destructivos efectos de la energía emitida.
@@ -33,6 +39,6 @@ En casos en los que los procesos de cálculo fallan, es posible que se produzca 
 
 La llegada de la Humanidad al [[Clavo]] fue resultado de un desplazamiento erróneo.
 
-### ¿Es peligroso?
+### ¿Es peligroso viajar utilizando el motor exofísico?
 
 Un salto exofísico realizado correctamente no es peligroso, pero tampoco está libre de riesgos. La experiencia para viajeros no experimentados es psicológicamente difícil de procesar, dado que nuestra percepción puede funcionar de manera extraña en el [[Exofísico]]. Por ello, los pasajeros reciben un sedante que les mantiene en un estado de inconsciencia por la duración del salto. La tripulación indispensable de astronaves equipadas para estos saltos se mantiene despierta o duerme por turnos, siendo asistida por androides en el mantenimiento de los pasajeros y del vehículo.
