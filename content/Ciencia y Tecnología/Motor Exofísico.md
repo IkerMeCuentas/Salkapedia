@@ -1,6 +1,6 @@
 ---
 title: Motor de Propagación de Coherencia Exofísica
-draft: true
+draft: false
 tags: 
 aliases:
   - Motor Exofísico
