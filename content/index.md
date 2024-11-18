@@ -9,9 +9,14 @@ tags:
 > 
 > Está escrito desde la perspectiva de personas que existen en este universo. Las aclaraciones al lector vendrán marcadas con la etiqueta OOC (Out of Character)
 
-¡Hola y bienvenido a la **Salkapædia**! Este es un proyecto mantenido por voluntarios, abierto al público, y co-financiado por el [[Departamento de Relaciones Exteriores]] y el [[Departamento de Interior]] del [[Condominio de Salka]]. El objetivo es crear una base de conocimiento general que ayude tanto al resto de la sociedad galáctica a conocer el proyecto del Condominio, como ayudar a nuestros primos [[Salkai]] a conocer el resto del universo.
+¡Hola y bienvenido a la **Salkapædia**! Este es un proyecto mantenido por voluntarios, abierto al público, y co-financiado por el Departamento de Relaciones Exteriores y el Departamento de Interior del [[Condominio de Salka]]. El objetivo es crear una base de conocimiento general que ayude tanto al resto de la sociedad galáctica a conocer el proyecto del Condominio, como ayudar a nuestros primos [[Salkai]] a conocer el resto del universo.
 
 # Introducción
+
+
+> [!INFO] **[[FAQ]]**
+> Puedes encontrar respuestas a las preguntas más frecuentes en nuestro [[FAQ]]
+
 
 El [[Condominio de Salka]] es un estado estelar soberano semi-autónomo ubicado enteramente en el [[Sistema Salkano]]. Administrado por el [[Consejo de Administradores de Salka]], el Condominio tiene la doble misión de integrar el sistema social, política y económicamente con el resto de la galaxia y de elevar a los [[Salkai|salkai]], subespecie humana nativa de este sistema.
 
