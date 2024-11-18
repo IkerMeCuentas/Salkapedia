@@ -1,5 +1,5 @@
 ---
-title: Motor de Propagación de Coherencia Exofísica
+title: Motor Exofísico
 draft: false
 tags: 
 aliases:
