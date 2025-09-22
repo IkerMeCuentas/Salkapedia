@@ -9,7 +9,7 @@ tags:
 > 
 > Está escrito desde la perspectiva de personas que existen en este universo. Las aclaraciones al lector vendrán marcadas con la etiqueta OOC (Out of Character)
 
-¡Hola y bienvenido a la **Salkapædia**! Este es un proyecto mantenido por voluntarios, abierto al público, y co-financiado por el Departamento de Relaciones Exteriores y el Departamento de Interior del [[Condominio de Salka]]. El objetivo es crear una base de conocimiento general que ayude tanto al resto de la sociedad galáctica a conocer el proyecto del Condominio, como ayudar a nuestros primos [[Salkai]] a conocer el resto del universo.
+¡Hola y bienvenido a la **Salkapædia**! Este es un proyecto mantenido por voluntarios, abierto al público, y co-financiado por el Departamento de Relaciones Exteriores y el Departamento de Interior del [[Condominio de Salka]]. El objetivo es crear una base de conocimiento general que ayude tanto al resto de la sociedad galáctica a conocer el proyecto del Condominio, como ayudar a nuestros primos [[Salkai]] a conocer el resto del universo.[^1]
 
 # Introducción
 
@@ -44,3 +44,5 @@ Para aprender más de [[Salka]], ¡no dudes en explorar esta wiki!
 
 
 ![[Red_Plain_03.jpg]]
+
+[^1]: Test footnote
