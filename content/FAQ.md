@@ -18,7 +18,7 @@ Nuestro espacio local es conocido como el [[Clavo]], bautizado así debido a la 
 
 ### ¿Qué es la Tierra? ¿Dónde está?
 
-La [[Tierra]], conocida popularmente como la [[Tierra|Madre Tierra]], es el planeta de origen de todos los miembros de la **Gran Humanidad**, incluyendo los humanos basales y las genolíneas divergentes como los [[salkai]].
+La [[Tierra]], conocida popularmente como la [[Tierra|Madre Tierra]], es el planeta de origen de todos los miembros de la **Gran Humanidad**, incluyendo los humanos basales y las genolíneas divergentes como los [[Salkai]].
 
 La ubicación de la **Tierra** es actualmente desconocida y es un punto de gran interés para la sociedad. El [[Terranismo]] es una corriente filosófica y espiritual para en la cual nuestro planeta natal juega un rol vital.
 
