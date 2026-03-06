@@ -1,7 +1,7 @@
 ---
 publish: true
 title: FAQ
-created: 2026-03-06T16:24:23.667+01:00
+created: 2026-03-06T17:24:47.071+01:00
 modified: 2026-03-06T16:24:23.667+01:00
 tags:
   - introducción

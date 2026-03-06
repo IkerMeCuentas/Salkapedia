@@ -1,7 +1,7 @@
 ---
 publish: true
 title: ¡Bienvenido a la Salkapedia!
-created: 2026-03-06T16:24:16.936+01:00
+created: 2026-03-06T17:24:47.065+01:00
 modified: 2026-03-06T16:24:16.936+01:00
 tags:
   - index
