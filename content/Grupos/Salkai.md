@@ -1,19 +1,21 @@
 ---
+publish: true
+aliases: salkai
 title: Salkai (Subespecie)
-draft: false
+created: 2026-03-06T16:24:32.536+01:00
+modified: 2026-03-06T16:24:32.536+01:00
 tags:
   - work-in-progress
-aliases:
-  - salkai
-publish: true
+cssclasses: ""
 ---
+
 Nombre científico *Homo salkanensis cunicularia*
 
 ---
 
-Los **Salkai** son una subespecie humana nativa al planeta [[Salka]]. Son una línea genética muy divergente, caracterizados por su baja estatura y estructura corpulenta. Notablemente entre sus diferencias de apariencia, su estructura facial tiende hacia el hocico, y muchos especímenes de esta especie desarrollan un cuerno singular en el centro de su frente. Adicionalmente, los caninos inferiores de los varones de la especie tienen un mayor desarrollo, convirtiéndose en colmillos que protruyen de su boca.
+Los **Salkai** son una subespecie humana nativa al planeta [[000 IGNORE/Reset/Ubicaciones/Salka]]. Son una línea genética muy divergente, caracterizados por su baja estatura y estructura corpulenta. Notablemente entre sus diferencias de apariencia, su estructura facial tiende hacia el hocico, y muchos especímenes de esta especie desarrollan un cuerno singular en el centro de su frente. Adicionalmente, los caninos inferiores de los varones de la especie tienen un mayor desarrollo, convirtiéndose en colmillos que protruyen de su boca.
 
-![[Foreni_Male_01.png]]*Varón salkai de la [[Costa Dirsiga]]*
+![[Foreni_Male_01.png]]*Varón salkai de la [[000 IGNORE/Reset/Ubicaciones/Costa Dirsiga]]*
 
 # Apariencia física
 
@@ -21,7 +23,7 @@ La subespecie Salkai presenta una serie de distintivas modificaciones craneofaci
 
 En contraste con la proyección hacia adelante de la cara, el cráneo de los Salkai se extiende ligeramente más hacia atrás en comparación con el de ***Homo sapiens***. Los pómulos y en general la estructura ósea de la cara son más prominentes y marcados, dotándoles de una apariencia más angulosa y definida, aunque existen grandes variaciones entre individuos.
 
-Los ojos de los Salkai son más grandes y tienen una forma más almendrada. Las pupilas son de forma horizontal, semejantes a las que se encuentran en algunos ungulados del planeta como las [[Cabra Gora|Cabras gora]]. Esta configuración podría sugerir adaptaciones a un nicho ambiental particular, posiblemente permitiendo a los Salkai detectar mejor el movimiento a lo largo de planos horizontales amplios o mejorar la visión en condiciones de poca luz.
+Los ojos de los Salkai son más grandes y tienen una forma más almendrada. Las pupilas son de forma horizontal, semejantes a las que se encuentran en algunos ungulados del planeta como las [[000 IGNORE/Reset/Fauna y Flora/Cabra Gora\|Cabras gora]]. Esta configuración podría sugerir adaptaciones a un nicho ambiental particular, posiblemente permitiendo a los Salkai detectar mejor el movimiento a lo largo de planos horizontales amplios o mejorar la visión en condiciones de poca luz.
 
 Otra característica distintiva es la distribución capilar. Tanto los hombres como las mujeres Salkai exhiben un pelaje denso y duro, aunque de crecimiento corto, que cubre el cuero cabelludo. La distribución de este cabello es irregular, siendo menos denso en la cresta craneal y reforzándose hacia los lados de la cabeza. Sin embargo, algunos grupos sí que muestran un cabello que crece hasta mayores longitudes, similar al pelo humano.
 
