@@ -3,6 +3,7 @@ title: ¡Bienvenido a la Salkapedia!
 draft: false
 tags:
   - index
+publish: true
 ---
 > [!danger] Out of Character (OOC)
 > La **Salkapedia** es un proyecto de wiki para el universo ficticio de Salka.

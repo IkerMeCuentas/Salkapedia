@@ -5,6 +5,7 @@ tags:
   - work-in-progress
 aliases:
   - salkai
+publish: true
 ---
 Nombre científico *Homo salkanensis cunicularia*
 

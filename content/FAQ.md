@@ -5,6 +5,7 @@ tags:
   - introducción
   - general
 aliases:
+publish: true
 ---
 > [!info] Texto introductorio
 > Este artículo está orientado a [[Salkai]] y a humanos nacidos en [[Salka]] que no están familiarizados con el resto de nuestra galaxia y nuestra historia.

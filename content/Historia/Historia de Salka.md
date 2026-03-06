@@ -6,6 +6,7 @@ tags:
   - work-in-progress
 aliases:
   - Descubrimiento de Salka
+publish: true
 ---
 # Antecedentes
 
