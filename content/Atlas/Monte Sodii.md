@@ -2,14 +2,12 @@
 publish: true
 title: Monte Sodi
 created: 2026-03-07T20:53:25.352+01:00
-modified: 2026-03-07T22:55:47.689+01:00
+modified: 2026-03-07T23:09:12.297+01:00
 tags:
   - work-in-progress
   - landmark
 cssclasses: ""
 ---
-
-# Monte Sodi
 
 El **Monte Sodi** es una montaña en [[Atlas/Salka]], notable por la estructura en terrazas que recorre su falda norte-nordeste, de gran importancia religioso-cultural para los nativos [[Grupos/Salkai]] de la zona.
 
