@@ -2,7 +2,7 @@
 publish: true
 title: Descubrimiento y Primera Guerra de Salka
 created: 2026-03-11T23:22:39.903+01:00
-modified: 2026-03-13T22:17:59.833+01:00
+modified: 2026-03-17T13:14:11.201+01:00
 cssclasses: ""
 ---
 
@@ -48,6 +48,8 @@ Patrulleras inditianas y convoy kaorés entraron en contacto cercano al aproxima
 
 Durante horas, tanto las naves patrulleras como los transportes y escoltas mantuvieron sus respectivos vectores de aproximación e intercepción, pero en última instancia la relativa paridad de ambas fuerzas y el carácter civil de la misión kaoresa supusieron que las naves inditianas terminasen modificando su trayectoria a una de escolta coercitiva, sin dejar de reiterar sus órdenes. Aunque la comandancia inditiana no llegó a imponer el abordaje anunciado, sí forzó a la flotilla kaoresa a renunciar al establecimiento de una órbita regular en las condiciones inicialmente comunicadas. En lugar de consolidar una presencia orbital estable, la misión de Kaoré se limitó a realizar una aproximación ajustada de corta duración, que únicamente le permitió desplegar un pequeño número de lanzaderas que entraron en la atmósfera salkana antes de retroceder a una órbita más distante y menos funcional, lo que posteriormente sólo le permitiría prestar un apoyo limitado a la misión ya desplegada.
 
-Las lanzaderas kaoresas penetraron en la atmósfera salkana bajo condiciones de notable precariedad operativa, transportando personal científico, técnico y de seguridad, así como equipo modular ligero destinado al establecimiento de un enclave provisional en superficie.
+Las lanzaderas kaoresas penetraron en la atmósfera salkana bajo condiciones de notable precariedad operativa, transportando personal científico, técnico y de seguridad, así como equipo modular ligero destinado al establecimiento de un enclave provisional en superficie. Sin embargo, este contingente se vio obligado a alterar su lugar de aterrizaje elegido debido a la presión ejercida por fuerzas inditianas, que continuó en la atmósfera con el rápido despliegue de unidades hacia al punto estimado de finalización la trayectoria de las lanzaderas. Aterrizando en un lugar no idóneo, el desembarco kaorés fue hostigado por sobrevuelos por aeronaves no tripuladas desde el momento de su aterrizaje.
+
+Para los meses finales de 540, los destacamentos de ambas potencias habrían establecido sus posiciones en el sistema planetario de Salka. La comandancia de Nueva Indit controlaba la única estación orbital, instalaciones satelitales y de balizas, y con ello los más importantes corredores atmosféricos. Por otro lado, estaba bien posicionada en la superficie, siendo la [[Atlas/Base de Superficie Puerta de Indit\|Base de Superficie "Puerta de Indit"]] la zona de aterrizaje mejor preparada. Y adicionalmente, su contingente de personal era superior al de su rival kaoresa, cuya posición era generalmente más frágil. La fuerza expedicionaria de Kaoré mantenía las astronaves de su convoy en una órbita lejana alrededor del planeta y con difícil acceso para reabastecer su campamento en superficie, que fue instalado provisionalmente a media distancia de su punto elegido por la presión de las patrulleras inditianas.
 
 [...]
