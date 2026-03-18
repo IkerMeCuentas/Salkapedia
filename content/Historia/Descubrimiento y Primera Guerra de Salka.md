@@ -2,7 +2,7 @@
 publish: true
 title: Descubrimiento y Primera Guerra de Salka
 created: 2026-03-11T23:22:39.903+01:00
-modified: 2026-03-17T13:14:11.201+01:00
+modified: 2026-03-18T15:08:31.621+01:00
 cssclasses: ""
 ---
 
@@ -38,7 +38,7 @@ Desde esos primeros meses, la comandancia inditiana comenzó a emitir por canale
 
 ## Llegada de la misión kaoresa y primeras tensiones (540)
 
-A finales del 540 arribaron en el sistema las primeras astronaves bajo bandera kaoresa, integradas en un pequeño convoy compuesto mayoritariamente por navíos científicos civiles acompañados de una pequeña escolta de la armada de Kaoré. 
+En el último tercio del 540 arribaron en el sistema las primeras astronaves bajo bandera kaoresa, integradas en un pequeño convoy compuesto mayoritariamente por navíos científicos civiles acompañados de una pequeña escolta de la armada de Kaoré. 
 
 Estos transportes anunciaron su llegada y fueron rápidamente detectados por la ya presente base inditiana, que señaló su entrada en un espacio restringido y ordenó su salida del sistema. La fuerza kaoresa protestó estas órdenes, rechazando su pretensión de soberanía, alegando la cuestión pendiente de mediación conforme al derecho interrepublicano, y señalando el carácter civil, pacífico y científico de su misión.
 
@@ -51,5 +51,19 @@ Durante horas, tanto las naves patrulleras como los transportes y escoltas mantu
 Las lanzaderas kaoresas penetraron en la atmósfera salkana bajo condiciones de notable precariedad operativa, transportando personal científico, técnico y de seguridad, así como equipo modular ligero destinado al establecimiento de un enclave provisional en superficie. Sin embargo, este contingente se vio obligado a alterar su lugar de aterrizaje elegido debido a la presión ejercida por fuerzas inditianas, que continuó en la atmósfera con el rápido despliegue de unidades hacia al punto estimado de finalización la trayectoria de las lanzaderas. Aterrizando en un lugar no idóneo, el desembarco kaorés fue hostigado por sobrevuelos por aeronaves no tripuladas desde el momento de su aterrizaje.
 
 Para los meses finales de 540, los destacamentos de ambas potencias habrían establecido sus posiciones en el sistema planetario de Salka. La comandancia de Nueva Indit controlaba la única estación orbital, instalaciones satelitales y de balizas, y con ello los más importantes corredores atmosféricos. Por otro lado, estaba bien posicionada en la superficie, siendo la [[Atlas/Base de Superficie Puerta de Indit\|Base de Superficie "Puerta de Indit"]] la zona de aterrizaje mejor preparada. Y adicionalmente, su contingente de personal era superior al de su rival kaoresa, cuya posición era generalmente más frágil. La fuerza expedicionaria de Kaoré mantenía las astronaves de su convoy en una órbita lejana alrededor del planeta y con difícil acceso para reabastecer su campamento en superficie, que fue instalado provisionalmente a media distancia de su punto elegido por la presión de las patrulleras inditianas.
+
+## Consolidación de posiciones y disputa de legitimidad (541)
+
+Mientras que el año 540 supuso el inicio de la competición inter-republicana por Salka y el establecimiento de sus primeras posiciones, el año 541 vio el desarrollo de este conflicto y su evolución gradual hasta la ruptura que supuso la Tragedia del *Valor de Bedia.* 
+
+Formalmente, las comandancias de ambas repúblicas mantuvieron durante esta fase las mismas posturas que en el año previo. La comandancia inditiana siguió presentándose como la representación del soberano efectivo del sistema, invocando motivos de seguridad orbital, cuarentena y control policial y aduanero para justificar sus intervenciones. Y en contraparte, la expedición kaoresa sostuvo su presencia en el sistema como una misión científica civil en un sistema cuya soberanía seguía siendo un asunto pendiente de resolución.
+
+En el plano operativo, esto marcó las prioridades de ambas potencias. En órbita, cada intento kaorés de mejorar la órbita de sus astronaves o de normalizar sus corredores atmosféricos fue contestado mediante intercepciones preventivas, requerimentos de identificación y de inspección, y amenazas de abordaje policial. La capacidad inditiana de desplegar patrulleras a puntos de maniobra útiles, unida a su control de la infraestructura orbital ya desplegada, bastó para dificultar las operaciones kaoresas y reducir la efectividad de sus operaciones orbitales y de reabastecimiento.
+
+En superficie, los efectivos inditianos mantuvieron la presión sobre el campamento kaorés desde el inicio. A partir de su aterrizaje, los kaoreses se vieron sobrevolados de forma constante por vehículos inditianos - primero lanzaderas reconvertidas, y posteriormente aeronaves no tripuladas. Estas pasadas de observación, realizadas noche y día sobre el campamento y operaciones fuera del mismo, vinieron acompañados de comunicaciones abiertas, advertencias regulatorias y requerimientos de identificación.
+
+Aunque los choques en esta primera etapa no desembocaron en violencia directa, si que interfirieron de forma notable con la capacidad operativa kaoresa. Las fuerzas inditianas mantuvieron una vigilancia constante sobre sus activos en el planeta, interfiriendo con el descanso, despliegue y refuerzo kaorés. Adicionalmente, las limitaciones interpuestas a sus actividades de reaprovisionamiento condicionaron el mantenimiento del campamento, que se vio obligado a operar bajo condiciones de suministros limitados.
+
+Se considera que la instalación de un campamento avanzado de vigilancia, compuesto de un pequeño destacamento inditiano enviado desde Puerta de Indit a las inmediaciones de la base kaoresa, fue el desencadenante de la siguiente fase. Con esta presencia permanente, Indit garantizó la presión constante sobre el terreno, mediante una supervisión continua de sus accesos y desplazamientos, operaciones y negociaciones con grupos salkai locales.
 
 [...]
